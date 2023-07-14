@@ -1,0 +1,9 @@
+textRect: 452 729 632 60
+playButtonRect: 592 626 351 163
+exitButtonRect: 50 50 151 133
+textWRect: 665 197 205 52
+textHRect: 665 333 205 66
+textDifficultyRect: 569 483 397 66
+scrollerWRect: 168 251 1200 80
+scrollerHRect: 168 401 1200 80
+scrollerDifficultyRect: 168 551 1200 80
